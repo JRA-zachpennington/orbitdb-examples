@@ -5,5 +5,7 @@ dist
 # Editor directories and files
 .vscode/*
 ipfs/
+ipfs2/
 nodejs/orbitdb
 orbitdb
+orbitdb2
