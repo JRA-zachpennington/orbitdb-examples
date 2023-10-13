@@ -21,7 +21,6 @@ const config = {
       // Use local signal server
       // '/ip4/0.0.0.0/tcp/9090/wss/p2p-webrtc-star',
       '/ip4/0.0.0.0/tcp/0',
-
     ],
     Gateway: '/ip4/0.0.0.0/tcp/0'
   },
